@@ -191,6 +191,9 @@ LangYuan can seamlessly integrate with:
 - OpenAI
 - Claude
 - Gemini
+- Agent
+- OpenClaw
+- Hermes
 
 Supports:
 
