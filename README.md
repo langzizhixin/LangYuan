@@ -22,7 +22,7 @@ LangYuan currently achieves SOTA-level performance in the field of generalized r
   
 ## 📊 Application Scenarios
 <p align='center'>  
-    <img src='assets/0002.png' width='1200'/>
+    <img src='assets/0004.png' width='1200'/>
   
 ## 📊 Technical Advantage
 <p align='center'>  
@@ -31,7 +31,7 @@ LangYuan currently achieves SOTA-level performance in the field of generalized r
 
 ## 📊 Technical Solution
 <p align='center'>  
-    <img src='assets/0004.png' width='1200'/>
+    <img src='assets/0002.png' width='1200'/>
 </p>
 
 
