@@ -15,17 +15,21 @@
 
 ## 📊 Project Poster
 <p align='center'>  
-    <img src='assets/1111.png' width='1200'/>
+    <img src='assets/0001.png' width='1200'/>
   
 ## 📊 Application Scenarios
 <p align='center'>  
-    <img src='assets/2222.png' width='1200'/>
+    <img src='assets/0002.png' width='1200'/>
   
 ## 📊 Technical Solution
 <p align='center'>  
-    <img src='assets/3333.png' width='1200'/>
+    <img src='assets/0003.png' width='1200'/>
 </p>
 
+## 📊 Technical Solution
+<p align='center'>  
+    <img src='assets/0004.png' width='1200'/>
+</p>
 
 # 👍  Advantages
 1. Only act when speaking, with semantic coordination.
