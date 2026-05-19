@@ -34,20 +34,6 @@ LangYuan currently achieves SOTA-level performance in the field of generalized r
     <img src='assets/0004.png' width='1200'/>
 </p>
 
-No training. No fine-tuning. No dataset collection.
-
-Simply upload a video, and LangYuan instantly creates a fully interactive real-time AI avatar capable of:
-
-- Real-time voice conversation
-- Real-time lip-sync
-- Real-time facial animation
-- Real-time emotional expression
-- Singing, dancing, outfit switching, and live performance
-
-LangYuan currently achieves **SOTA-level performance** in the field of generalized real-time digital humans.
-
----
-
 # ✨ Features
 
 ## 🎯 Zero-Training Digital Humans
@@ -69,19 +55,11 @@ LangYuan changes everything.
 ✅ No LoRA training  
 ✅ No model fine-tuning  
 ✅ No complex workflow  
-
 A truly:
-
 # “Training-Free Real-Time Digital Human System”
-
----
-
 # ⚡ Ultra-Low Latency
-
 LangYuan deeply optimizes the entire real-time pipeline.
-
 ## End-to-End Pipeline Latency
-
 | Module | Latency |
 |---|---|
 | VAD Detection | 20~40ms |
@@ -91,11 +69,8 @@ LangYuan deeply optimizes the entire real-time pipeline.
 | Digital Human Rendering | 100~300ms |
 
 ## 🧠 Total End-to-End Latency
-
-# ≈ 1 Second
-
+#  about 1 second
 Supports:
-
 - Real-time interruption
 - Wake-word interruption
 - Streaming speech generation
@@ -103,14 +78,9 @@ Supports:
 - Instant emotional feedback
 - Natural conversational interaction
 
----
-
 # 🎭 Real-Time Performance Capabilities
-
 LangYuan is far beyond a simple talking head.
-
 ## Supports:
-
 - 🎤 Singing
 - 💃 Dancing
 - 👗 Real-time outfit switching
@@ -119,8 +89,6 @@ LangYuan is far beyond a simple talking head.
 - 👄 High-precision lip-sync
 - 🦷 Teeth detail restoration
 - 👁 Micro-expression animation
-
----
 
 # 🌍 Generalized Character Support
 
