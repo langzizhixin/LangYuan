@@ -1,5 +1,5 @@
 # 🚀 LangYuan
-🚀 LangYuan is a SOTA new generation of generalized real-time digital human system launched by LangQing Technology.
+🚀 LangYuan is a SOTA-level new generation of generalized real-time digital human system launched by LangQing Technology.
 No training, no fine-tuning, no need to collect vast amounts of data. Simply upload a video of a person, and you can achieve:
 Real-time voice conversation
 Real-time lip-sync
