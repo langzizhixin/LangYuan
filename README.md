@@ -24,7 +24,7 @@ LangYuan currently achieves SOTA-level performance in the field of generalized r
 <p align='center'>  
     <img src='assets/0002.png' width='1200'/>
   
-## 📊 Technical Solution
+## 📊 Technical Advantage
 <p align='center'>  
     <img src='assets/0003.png' width='1200'/>
 </p>
@@ -33,6 +33,34 @@ LangYuan currently achieves SOTA-level performance in the field of generalized r
 <p align='center'>  
     <img src='assets/0004.png' width='1200'/>
 </p>
+
+
+## 🎬 Demo
+
+<table class="center">
+  <tr style="font-weight: bolder;text-align:center;">
+        <td width="50%"><b>  demo   video</b></td>
+        <td width="50%"><b>  demo   video</b></td>
+  </tr>
+  <tr>
+    <td>
+      <video src=https://github.com/user-attachments/assets/25968397-4e2a-4e42-a35d-4333d233f35a controls preload></video>
+    </td>
+    <td>
+      <video src=https://github.com/user-attachments/assets/2ce620a0-db90-4d9d-8cfd-edaf268deffa controls preload></video>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video src=https://github.com/user-attachments/assets/0f8074fc-8429-4a9f-9dee-a1eb93dc5c4a controls preload></video>
+    </td>
+    <td>
+      <video src=https://github.com/user-attachments/assets/eb78064a-00ef-418f-b3ef-6a8f67769a11 controls preload></video>
+    </td>
+  <tr>
+</table>
+
+
 
 # ✨ Features
 
@@ -197,7 +225,6 @@ Supports:
 | Real-Time Latency | ≈1s |
 | Concurrency | High Concurrency |
 | GPU Support | NVIDIA / Huawei Ascend |
-| CPU Support | ✅ |
 | Resolution | HD |
 | Real-Time Rendering | ✅ |
 | Training Required | ❌ No |
@@ -241,43 +268,6 @@ Customer service, livestreaming, education, robotics, exhibitions, and more.
 - AI Virtual IPs
 - AI Receptionists
 - AI Exhibition Hosts
-
----
-
-# 🔥 Vision
-
-LangYuan aims to become:
-
-> The next-generation infrastructure for real-time AI digital humans.
-
-
-
-## 🎬 Demo
-
-<table class="center">
-  <tr style="font-weight: bolder;text-align:center;">
-        <td width="50%"><b>  demo   video</b></td>
-        <td width="50%"><b>  demo   video</b></td>
-  </tr>
-  <tr>
-    <td>
-      <video src=https://github.com/user-attachments/assets/25968397-4e2a-4e42-a35d-4333d233f35a controls preload></video>
-    </td>
-    <td>
-      <video src=https://github.com/user-attachments/assets/2ce620a0-db90-4d9d-8cfd-edaf268deffa controls preload></video>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <video src=https://github.com/user-attachments/assets/0f8074fc-8429-4a9f-9dee-a1eb93dc5c4a controls preload></video>
-    </td>
-    <td>
-      <video src=https://github.com/user-attachments/assets/eb78064a-00ef-418f-b3ef-6a8f67769a11 controls preload></video>
-    </td>
-  <tr>
-</table>
-
-
 
 ## 📖 Disclaimers
 This repositories made by langzizhixin from Langzizhixin Technology company 2026.5.13, in Chengdu, China .
