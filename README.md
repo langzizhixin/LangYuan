@@ -1,15 +1,18 @@
 # 🚀 LangYuan
-### SOTA Realtime Multimodal Digital Human Platform
-### Realtime AI Avatar · Streaming Interaction · WebRTC · Talking Head. LangQing is a realtime interactive digital human platform developed by Langzizhixin Technology. SOTA realtime multimodal digital human platform. 
-### 一个超保真还原本人牙齿和嘴型的商用定制实时数字人项目，SOTA级。
-## 🏗️ LangQing realtime interactive digital human
+🚀 LangYuan is a SOTA new generation of generalized real-time digital human system launched by LangQing Technology.
+No training, no fine-tuning, no need to collect vast amounts of data. Simply upload a video of a person, and you can achieve:
+Real-time voice conversation
+Real-time lip-sync
+Real-time emotional expression
+Singing, dancing, outfit switching, and live performance
+LangYuan currently achieves SOTA-level performance in the field of generalized real-time digital humans.
 <p align='center'>
   <b>
-    <a href="https://www.bilibili.com/video/BV1sbRKBFECa/?spm_id_from=333.1387.upload.video_card.click&vd_source=7720ff9e037156b51374d14ee8f76b51">Video </a>
+    <a href="https://www.bilibili.com/video/BV1QSRVBZEK7/?spm_id_from=333.1387.homepage.video_card.click">Video </a>
     |     
     <a href="https://github.com/langzizhixin">Project Page</a>
     |
-    <a href="https://github.com/langzizhixin/LangQing">Code</a> 
+    <a href="https://github.com/langzizhixin/LangYuan">Code</a> 
   </b>
 </p> 
 
@@ -31,46 +34,253 @@
     <img src='assets/0004.png' width='1200'/>
 </p>
 
-# 👍  Advantages
-1. Only act when speaking, with semantic coordination.
-2. It can switch videos seamlessly without any flickering.
-3. Commercial algorithms can achieve a similarity of over 96% between teeth and mouth shapes.
-4. It can provide an extremely fast response within 500 milliseconds, compared to the average response time of around 1.5 seconds.
-5. Support the integration of various intelligent agents.
-6. Supports 2D, 2.5D, and 3D.
-7. Supports super concurrency. The 3060, priced at over 1000 yuan RMB, supports 4 to 6 concurrent paths.
-8. Support cloud deployment, local deployment, and information technology innovation transformation.
-9. Support performances such as singing, dancing, and changing clothes.
-10. Supports RAG, workflow, and agent orchestration.
-11. Low latency and high synchronization, ensuring high synchronization between audio and video lip shape, action, and voice.
-12. Supports multiple languages and switching between multiple models.
-13. Highly robust automatic speech recognition (ASR) + text-to-speech (TTS).
-14. Develop long-term contextual memory ability.
-15. It features personalized customization functions.
-16. Compliance and Security: Support for private deployment and data isolation to ensure security and reliability.
-17. Support seamless integration with mainstream large models.
+No training. No fine-tuning. No dataset collection.
 
-Wait, these are nationally leading commercial technologies, with no equivalent competing products in China, and currently only second to HeyGen in the United States.
+Simply upload a video, and LangYuan instantly creates a fully interactive real-time AI avatar capable of:
 
-# 🔥 Features
-- Ultra low latency realtime interaction (<500ms fast response)
-- Natural gesture generation driven by speech semantics
-- Seamless video switching without flickering
-- High lip-sync accuracy (up to 96% similarity)
-- WebRTC realtime streaming
-- GPU realtime inference
-- Multi-agent integration
-- RAG and workflow orchestration
-- Singing, dancing and costume changing
-- 2D / 2.5D / 3D digital humans
-- Human / anime / animal  support
-- Cloud deployment and on-premise deployment
-- XinChuang compatibility support
-- Multi-language support
-- Long-context memory
-- Persona customization
-- High concurrency deployment
+- Real-time voice conversation
+- Real-time lip-sync
+- Real-time facial animation
+- Real-time emotional expression
+- Singing, dancing, outfit switching, and live performance
 
+LangYuan currently achieves **SOTA-level performance** in the field of generalized real-time digital humans.
+
+---
+
+# ✨ Features
+
+## 🎯 Zero-Training Digital Humans
+
+Traditional digital human systems usually require:
+
+- Large-scale data collection
+- Hours or days of model training
+- Heavy GPU dependency
+- Per-character fine-tuning
+
+LangYuan changes everything.
+
+### With LangYuan:
+
+✅ Upload and use instantly  
+✅ Video-driven digital humans  
+✅ Single-image support  
+✅ No LoRA training  
+✅ No model fine-tuning  
+✅ No complex workflow  
+
+A truly:
+
+# “Training-Free Real-Time Digital Human System”
+
+---
+
+# ⚡ Ultra-Low Latency
+
+LangYuan deeply optimizes the entire real-time pipeline.
+
+## End-to-End Pipeline Latency
+
+| Module | Latency |
+|---|---|
+| VAD Detection | 20~40ms |
+| ASR Speech Recognition | 80~150ms |
+| LLM Inference | 200~500ms |
+| TTS Synthesis | 80~200ms |
+| Digital Human Rendering | 100~300ms |
+
+## 🧠 Total End-to-End Latency
+
+# ≈ 1 Second
+
+Supports:
+
+- Real-time interruption
+- Wake-word interruption
+- Streaming speech generation
+- Streaming lip-sync
+- Instant emotional feedback
+- Natural conversational interaction
+
+---
+
+# 🎭 Real-Time Performance Capabilities
+
+LangYuan is far beyond a simple talking head.
+
+## Supports:
+
+- 🎤 Singing
+- 💃 Dancing
+- 👗 Real-time outfit switching
+- 🎬 Performance animation
+- 😊 Emotional expressions
+- 👄 High-precision lip-sync
+- 🦷 Teeth detail restoration
+- 👁 Micro-expression animation
+
+---
+
+# 🌍 Generalized Character Support
+
+## 👩 Human Digital Humans
+
+- Real-person video driving
+- Photo-driven avatars
+
+## 🤖 Virtual Characters
+
+- Anime characters
+- VTubers
+- Stylized AI characters
+
+## 🐼 Animal Digital Humans
+
+- Panda avatars
+- Tigers
+- Pets
+- Brand mascots
+
+---
+
+# 🧩 Multi-Representation Support
+
+| Type | Support |
+|---|---|
+| 2D | ✅ |
+| 2.5D | ✅ |
+| 3D | ✅ |
+| Live2D | ✅ |
+| Video-driven | ✅ |
+| Audio-driven | ✅ |
+
+---
+
+# 🖥 Multi-Platform Support
+
+LangYuan supports deployment across multiple devices and environments:
+
+- 📱 Mobile phones
+- 💻 PCs
+- 🖥 Large displays
+- 🧊 Holographic chambers
+- 🪟 Transparent mobile displays
+- 🤖 Robots
+- 📺 Smart displays
+- 🏢 Exhibition systems
+
+---
+
+# ☁️ Deployment Options
+
+## Supported Deployment Modes
+
+- Local deployment
+- Private on-premise deployment
+- Cloud deployment
+- Edge deployment
+- China-compatible XinChuang deployment
+
+---
+
+# 🧠 AI Integration
+
+LangYuan can seamlessly integrate with:
+
+- DeepSeek
+- Qwen
+- ChatGLM
+- Llama
+- OpenAI
+- Claude
+- Gemini
+
+Supports:
+
+- Function Calling
+- MCP
+- AI Agents
+- RAG
+- Workflow systems
+- Knowledge bases
+
+---
+
+# 🔊 Voice Intelligence
+
+## Built-in Features
+
+- Real-time ASR
+- Real-time TTS
+- VAD
+- Interruption detection
+- Echo cancellation
+- Noise reduction
+- Emotional speech synthesis
+- Multi-voice cloning
+
+---
+
+# 📈 Technical Specifications
+
+| Metric | LangYuan |
+|---|---|
+| Real-Time Latency | ≈1s |
+| Concurrency | High Concurrency |
+| GPU Support | NVIDIA / Huawei Ascend |
+| CPU Support | ✅ |
+| Resolution | HD |
+| Real-Time Rendering | ✅ |
+| Training Required | ❌ No |
+| Generalization Capability | Extremely Strong |
+
+---
+
+# 🏆 Advantages
+
+## ✅ Truly Generalized
+
+No per-character training required.
+
+## ✅ Truly Real-Time
+
+Near human-level conversational responsiveness.
+
+## ✅ Truly Easy-to-Use
+
+Upload a video and start instantly.
+
+## ✅ Truly Enterprise-Ready
+
+Supports private deployment, localization, and enterprise infrastructure.
+
+## ✅ Truly Multi-Scenario
+
+Customer service, livestreaming, education, robotics, exhibitions, and more.
+
+---
+
+# 📦 Application Scenarios
+
+- AI Customer Service
+- AI Livestream Hosts
+- AI Sales Assistants
+- AI Tour Guides
+- AI Teachers
+- AI Companions
+- AI Influencers
+- AI Virtual IPs
+- AI Receptionists
+- AI Exhibition Hosts
+
+---
+
+# 🔥 Vision
+
+LangYuan aims to become:
+
+> The next-generation infrastructure for real-time AI digital humans.
 
 
 
