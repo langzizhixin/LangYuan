@@ -115,7 +115,7 @@ LangYuan is far beyond a simple talking head.
 - 🎬 Performance animation
 - 😊 Emotional expressions
 - 👄 High-precision lip-sync
-- 🦷 Teeth detail restoration
+- 🦷 Teeth detail restoration  the similarity is over 92%.
 - 👁 Micro-expression animation
 
 # 🌍 Generalized Character Support
